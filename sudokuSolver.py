@@ -1,11 +1,13 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Mar  7 17:37:47 2018
-
+new branch
 @author: vinee
 """
 
 b=[]
+
+
 
 
 b.append([0,3,6,0,9,0,7,5,0])
